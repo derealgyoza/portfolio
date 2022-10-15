@@ -110,20 +110,18 @@ const Home = () => (
         </Heading>
         <BioSection>
           <BioYear>1984</BioYear>
-          Born in Osaka (大阪), Japan.
+          Born in Ulan-Bator , Mongolia.
         </BioSection>
         <BioSection>
-          <BioYear>2010</BioYear>
-          Completed the Master&apos;s Program in the Graduate School of
-          Information Science at Nara Institute of Science and Technology
-          (奈良先端科学技術大学院大学情報科学研究科修士課程)
+          <BioYear>2022</BioYear>
+          Completed the High School&apos; Program in Erin Everest International High school
         </BioSection>
         <BioSection>
-          <BioYear>2010</BioYear>
-          Worked at Yahoo! Japan (ヤフー株式会社入社)
+          <BioYear>2021</BioYear>
+          Worked at Tumen Nayad Khairkhan! Mongolia
         </BioSection>
         <BioSection>
-          <BioYear>2012 to present</BioYear>
+          <BioYear>2022</BioYear>
           Working as a freelancer
         </BioSection>
       </Section>
